@@ -7,7 +7,7 @@ your service applications needs and the sign on and application id URLs used for
 
 ## Register your application with Azure AD
 
-Sign in to the Classic Azure Management Portal, then do the following:
+Sign in to the Azure Management Portal, then do the following:
 
 1. Click the **Azure Active Directory** tab in the left column and select the directory linked to your Skype for Business subscription.
  
